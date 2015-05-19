@@ -152,7 +152,7 @@ if(function_exists('date_default_timezone_set')) date_default_timezone_set($time
 /**
  *
  * !Important:
- * @include autoloaders for classes
+ * @include autoloader for classes
  */
 include_once(INC_PATH . "inc.php");
 
