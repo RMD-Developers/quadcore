@@ -1,0 +1,80 @@
+******************************************************
+*		   What will happen to the system?			 *
+******************************************************
+
+++++++++++++++++ Folders +++++++++++++++++++++
+1. app  		- for MVC pattern contents ex. Controller, Views, Model etc
+2. files		- for files and documents
+3. lib			- for classes and built in libraries ex. TWIG, Report Generator, Route, Database Connection, UTILS
+4. plugin		- for jQuery plugins, imgs, CSS, JS, etc
+++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++ Core Files +++++++++++++++++
+1. index.php	- the vital file which will drive the system to the right Controller and will serve as main path
+2. inc.php 		- which will include libraries and other built in Classes required by the system
+3. init.php		- which will define all globally used php user defined functions
+Use Sammy
+USe Facade
+++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++ File Convention ++++++++++++
+> For Classes must be lower case with .class.php extension
+> For Controller with sub-dir+Controller.php
+++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++ Design +++++++++++++++++++++
+1. Must be flexible in small devices for user's ease of use
+2. Must rely on the type of product that the system is portraying or selling
+3. Must be user-friendly, easy to navigate, and also attractive
+++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++ Memory Alloc'n +++++++++++++
+1. Must be memory feasible
+2. Caching is important so enable this feature
+3. Use garbage utility collector for codes to maximize memory dump
+4. Dispatch overflowed unused files 
+++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++ Security Features ++++++++++
+1. Use domains with advance security features
+2. Make classes and functions private to prevent unauthorized accessibility
+3. Database must be strictly inaccessible to anyone
+4. Design Database properly and assemble each relational integrity accordingly. Use foreign key constraints
+++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++ COMPANY PROFILE ++++++++++++
+1. QUADCORE - Specializes on CCTV installation, maintenance of structured cabling and CCTV Surveillance System
+++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++ GUIDELINES +++++++++++++++++
+* Things to Consider
+
+1. Enable user to add, edit, and delete products
+2. With login and user level for each system module
+3. Can Add another user, edit and delete record
+4. List down of possible accessibility for the non-administrator
+5. Implement other design pattern like Observer, Factory, Decorator, Proxy...
+++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++ KEY FEATURES +++++++++++++++
+1. Provide a widget for each item. - During the insertion of new item, there must be a form element that will ask widget is to be enabled or not
+2. Image should have default icon if not yet modified
+3. Use loader in redirection. Must be shown.
+4. Search with pagination and more options for filtering search
+++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Route - serve as the gate way of loading the correct controller
+Controller - serve as the extension of other controller to access registry variables. Extended controller will inherit the registry variable
+Registry - serve as the temporary storage of globally used variables and will be available globally as long as the script is executing
+View - serve as the main view of the system and the skeleton which provide the pattern and design and overall schema of the system
+Sammy - will be used in identifying identify errors
+Facade - To be used getting from database

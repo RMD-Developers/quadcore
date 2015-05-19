@@ -1,0 +1,39 @@
+#! To set up the environment
+
+# -- VIRTUAL HOST --
+1. Open c://windows/System32/drivers/etc/host file
+and add the line of codes below. !Important Edit this not on notepad but to any of your text editor ex. sublime, Notepad++, EDI, etc.
+
+127.0.0.1	quadcore.com
+127.0.0.1	localhost
+
+Note: You can change the [quadcore.com] to yourdesire.com
+ex. app.quadcore.com/my.quadcore.com/any-quadcore.com
+
+2. Stop all the XAMPP Modules
+3. Open c://Xampp/apache/conf/extra/httpd-vhosts.conf
+add the ff code. !Important Edit this not on notepad but to any of your text editor ex. sublime, Notepad++, EDI, etc.
+
+# -- quadcore
+<VirtualHost *:80>
+    DocumentRoot "C:/xampp/htdocs/web_programs/_Client/quadcore"
+    ServerName quadcore.com
+    ServerAlias www.quadcore.com
+
+    <Directory "C:/xampp/htdocs/web_programs/_Client/quadcore">
+         AllowOverride All 
+        Order allow,deny
+        Allow from all
+        Require all granted
+    </Directory>
+</VirtualHost>
+
+Note:  Change the [C:/xampp/htdocs/web_programs/_Client/quadcore] path to where your application is located. You can also change the [quadcore.com] to yourdesire.com but this must match the no. 1 step
+ex. app.quadcore.com / quadcore.com / any-quadcore.com
+
+4. ReStart the XAMPP server
+5. Open the browser and type in the URL quadcore.com
+6. Success!
+
+
+#! End set-up

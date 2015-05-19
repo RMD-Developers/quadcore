@@ -1,0 +1,128 @@
+SQLSTATE[HY000] [1049] Unknown database 'quadcore'#0 C:\xampp\htdocs\school_work\quadcore\lib\class\Database.class.php(23): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\school_work\quadcore\apps\facade\ProductFacade.class.php(10): Database::connect()
+#2 C:\xampp\htdocs\school_work\quadcore\apps\controller\productController.php(27): ProductFacade::findProduct('FIND_ALL', Array)
+#3 C:\xampp\htdocs\school_work\quadcore\lib\class\Router.class.php(59): productController->isProduct()
+#4 C:\xampp\htdocs\school_work\quadcore\index.php(79): Router->loader()
+#5 {main}
+ ------------------------------------------ {{ January 09, 2015 10:58 pm }}------------------------------------------
+SQLSTATE[HY000] [1049] Unknown database 'quadcore'#0 C:\xampp\htdocs\school_work\quadcore\lib\class\Database.class.php(23): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\school_work\quadcore\apps\facade\ProductFacade.class.php(10): Database::connect()
+#2 C:\xampp\htdocs\school_work\quadcore\apps\controller\productController.php(27): ProductFacade::findProduct('FIND_ALL', Array)
+#3 C:\xampp\htdocs\school_work\quadcore\lib\class\Router.class.php(59): productController->isProduct()
+#4 C:\xampp\htdocs\school_work\quadcore\index.php(79): Router->loader()
+#5 {main}
+ ------------------------------------------ {{ January 16, 2015 09:56 pm }}------------------------------------------
+SQLSTATE[HY000] [1049] Unknown database 'quadcore'#0 C:\xampp\htdocs\school_work\quadcore\lib\class\Database.class.php(23): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\school_work\quadcore\apps\facade\ProductFacade.class.php(10): Database::connect()
+#2 C:\xampp\htdocs\school_work\quadcore\apps\controller\productController.php(27): ProductFacade::findProduct('FIND_ALL', Array)
+#3 C:\xampp\htdocs\school_work\quadcore\lib\class\Router.class.php(59): productController->isProduct()
+#4 C:\xampp\htdocs\school_work\quadcore\index.php(79): Router->loader()
+#5 {main}
+ ------------------------------------------ {{ January 26, 2015 06:22 am }}------------------------------------------
+SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+#0 C:\xampp\htdocs\school_work\quadcore\lib\class\Database.class.php(23): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\school_work\quadcore\apps\facade\ProductFacade.class.php(10): Database::connect()
+#2 C:\xampp\htdocs\school_work\quadcore\apps\controller\productController.php(27): ProductFacade::findProduct('FIND_ALL', Array)
+#3 C:\xampp\htdocs\school_work\quadcore\lib\class\Router.class.php(59): productController->isProduct()
+#4 C:\xampp\htdocs\school_work\quadcore\index.php(79): Router->loader()
+#5 {main}
+ ------------------------------------------ {{ May 15, 2015 10:53 pm }}------------------------------------------
+SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+#0 C:\xampp\htdocs\school_work\quadcore\lib\class\Database.class.php(23): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\school_work\quadcore\apps\facade\ProductFacade.class.php(10): Database::connect()
+#2 C:\xampp\htdocs\school_work\quadcore\apps\controller\productController.php(27): ProductFacade::findProduct('FIND_ALL', Array)
+#3 C:\xampp\htdocs\school_work\quadcore\lib\class\Router.class.php(59): productController->isProduct()
+#4 C:\xampp\htdocs\school_work\quadcore\index.php(79): Router->loader()
+#5 {main}
+ ------------------------------------------ {{ May 15, 2015 10:53 pm }}------------------------------------------
+invalid data source name#0 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Database.class.php(23): PDO->__construct('DEFAULT_CONN_ST...', 'DB_USERNAME', 'DB_PASSWORD', Array)
+#1 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\facade\ProductFacade.class.php(10): Database::connect()
+#2 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\controller\productController.php(27): ProductFacade::findProduct('FIND_ALL', Array)
+#3 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Router.class.php(61): productController->isProduct()
+#4 C:\xampp\htdocs\web_programs\_Client\quadcore\index.php(166): Router->loader()
+#5 {main}
+ ------------------------------------------ {{ May 16, 2015 03:42 am }}------------------------------------------
+invalid data source name#0 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Database.class.php(23): PDO->__construct('DEFAULT_CONN_ST...', 'DB_USERNAME', 'DB_PASSWORD', Array)
+#1 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\facade\ProductFacade.class.php(10): Database::connect()
+#2 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\controller\productController.php(27): ProductFacade::findProduct('FIND_ALL', Array)
+#3 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Router.class.php(61): productController->isProduct()
+#4 C:\xampp\htdocs\web_programs\_Client\quadcore\index.php(166): Router->loader()
+#5 {main}
+ ------------------------------------------ {{ May 16, 2015 03:43 am }}------------------------------------------
+invalid data source name#0 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Database.class.php(23): PDO->__construct('DEFAULT_CONN_ST...', 'DB_USERNAME', 'DB_PASSWORD', Array)
+#1 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\facade\ProductFacade.class.php(10): Database::connect()
+#2 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\controller\productController.php(27): ProductFacade::findProduct('FIND_ALL', Array)
+#3 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Router.class.php(61): productController->isProduct()
+#4 C:\xampp\htdocs\web_programs\_Client\quadcore\index.php(166): Router->loader()
+#5 {main}
+ ------------------------------------------ {{ May 16, 2015 03:43 am }}------------------------------------------
+invalid data source name#0 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Database.class.php(23): PDO->__construct('DEFAULT_CONN_ST...', 'DB_USERNAME', 'DB_PASSWORD', Array)
+#1 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\facade\ProductFacade.class.php(10): Database::connect()
+#2 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\controller\productController.php(27): ProductFacade::findProduct('FIND_ALL', Array)
+#3 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Router.class.php(61): productController->isProduct()
+#4 C:\xampp\htdocs\web_programs\_Client\quadcore\index.php(166): Router->loader()
+#5 {main}
+ ------------------------------------------ {{ May 16, 2015 03:44 am }}------------------------------------------
+invalid data source name#0 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Database.class.php(23): PDO->__construct('DEFAULT_CONN_ST...', 'DB_USERNAME', 'DB_PASSWORD', Array)
+#1 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\facade\ProductFacade.class.php(10): Database::connect()
+#2 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\controller\productController.php(27): ProductFacade::findProduct('FIND_ALL', Array)
+#3 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Router.class.php(61): productController->isProduct()
+#4 C:\xampp\htdocs\web_programs\_Client\quadcore\index.php(166): Router->loader()
+#5 {main}
+ ------------------------------------------ {{ May 16, 2015 03:45 am }}------------------------------------------
+invalid data source name#0 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Database.class.php(23): PDO->__construct('DEFAULT_CONN_ST...', 'DB_USERNAME', 'DB_PASSWORD', Array)
+#1 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\facade\ProductFacade.class.php(10): Database::connect()
+#2 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\controller\productController.php(27): ProductFacade::findProduct('FIND_ALL', Array)
+#3 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Router.class.php(61): productController->isProduct()
+#4 C:\xampp\htdocs\web_programs\_Client\quadcore\index.php(166): Router->loader()
+#5 {main}
+ ------------------------------------------ {{ May 16, 2015 03:46 am }}------------------------------------------
+invalid data source name#0 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Database.class.php(23): PDO->__construct('DEFAULT_CONN_ST...', 'DB_USERNAME', 'DB_PASSWORD', Array)
+#1 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\facade\ProductFacade.class.php(10): Database::connect()
+#2 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\controller\productController.php(27): ProductFacade::findProduct('FIND_ALL', Array)
+#3 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Router.class.php(61): productController->isProduct()
+#4 C:\xampp\htdocs\web_programs\_Client\quadcore\index.php(166): Router->loader()
+#5 {main}
+ ------------------------------------------ {{ May 16, 2015 03:47 am }}------------------------------------------
+invalid data source name#0 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Database.class.php(23): PDO->__construct('DEFAULT_CONN_ST...', 'DB_USERNAME', 'DB_PASSWORD', Array)
+#1 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\facade\ProductFacade.class.php(10): Database::connect()
+#2 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\controller\productController.php(27): ProductFacade::findProduct('FIND_ALL', Array)
+#3 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Router.class.php(61): productController->isProduct()
+#4 C:\xampp\htdocs\web_programs\_Client\quadcore\index.php(166): Router->loader()
+#5 {main}
+ ------------------------------------------ {{ May 16, 2015 03:48 am }}------------------------------------------
+invalid data source name#0 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Database.class.php(23): PDO->__construct('DEFAULT_CONN_ST...', 'DB_USERNAME', 'DB_PASSWORD', Array)
+#1 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\facade\ProductFacade.class.php(10): Database::connect()
+#2 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\controller\productController.php(27): ProductFacade::findProduct('FIND_ALL', Array)
+#3 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Router.class.php(61): productController->isProduct()
+#4 C:\xampp\htdocs\web_programs\_Client\quadcore\index.php(166): Router->loader()
+#5 {main}
+ ------------------------------------------ {{ May 16, 2015 03:48 am }}------------------------------------------
+invalid data source name#0 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Database.class.php(23): PDO->__construct('DEFAULT_CONN_ST...', 'DB_USERNAME', 'DB_PASSWORD', Array)
+#1 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\facade\ProductFacade.class.php(10): Database::connect()
+#2 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\controller\productController.php(27): ProductFacade::findProduct('FIND_ALL', Array)
+#3 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Router.class.php(61): productController->isProduct()
+#4 C:\xampp\htdocs\web_programs\_Client\quadcore\index.php(166): Router->loader()
+#5 {main}
+ ------------------------------------------ {{ May 16, 2015 03:49 am }}------------------------------------------
+invalid data source name#0 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Database.class.php(23): PDO->__construct('DEFAULT_CONN_ST...', 'DB_USERNAME', 'DB_PASSWORD', Array)
+#1 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\facade\ProductFacade.class.php(10): Database::connect()
+#2 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\controller\productController.php(27): ProductFacade::findProduct('FIND_ALL', Array)
+#3 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Router.class.php(61): productController->isProduct()
+#4 C:\xampp\htdocs\web_programs\_Client\quadcore\index.php(166): Router->loader()
+#5 {main}
+ ------------------------------------------ {{ May 16, 2015 03:50 am }}------------------------------------------
+invalid data source name#0 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Database.class.php(23): PDO->__construct('DEFAULT_CONN_ST...', 'DB_USERNAME', 'DB_PASSWORD', Array)
+#1 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\facade\ProductFacade.class.php(10): Database::connect()
+#2 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\controller\productController.php(27): ProductFacade::findProduct('FIND_ALL', Array)
+#3 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Router.class.php(61): productController->isProduct()
+#4 C:\xampp\htdocs\web_programs\_Client\quadcore\index.php(167): Router->loader()
+#5 {main}
+ ------------------------------------------ {{ May 16, 2015 03:50 am }}------------------------------------------
+invalid data source name#0 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Database.class.php(23): PDO->__construct('DEFAULT_CONN_ST...', 'DB_USERNAME', 'DB_PASSWORD', Array)
+#1 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\facade\ProductFacade.class.php(10): Database::connect()
+#2 C:\xampp\htdocs\web_programs\_Client\quadcore\apps\controller\productController.php(27): ProductFacade::findProduct('FIND_ALL', Array)
+#3 C:\xampp\htdocs\web_programs\_Client\quadcore\lib\class\Router.class.php(61): productController->isProduct()
+#4 C:\xampp\htdocs\web_programs\_Client\quadcore\index.php(166): Router->loader()
+#5 {main}
+ ------------------------------------------ {{ May 16, 2015 03:52 am }}------------------------------------------

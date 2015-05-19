@@ -1,0 +1,24 @@
+<IfModule mod_rewrite.c>
+
+RewriteEngine on
+RewriteBase /
+
+Options -Indexes +MultiViews +FollowSymlinks
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# <-- assign path to site.com/$=>index.php?path=$1 ./-->
+RewriteRule ^(.*)$ index.php?path=$1 [L,QSA]
+RewriteCond $1 !^(index\.php|robots\.txt|favicon\.ico|public|assets|css|js|images)
+
+# <-- maximize upload size ./-->
+#php_value upload_max_filesize 50000
+#php_value post_max_size 50000
+#php_value max_input_time 500
+#php_value max_execution_time 500
+
+# <-- turn off zlib ./-->
+php_value zlib.output_compression off
+
+</IfModule>
