@@ -17646,3 +17646,118 @@ SQLSTATE[HY000] [2002] No connection could be made because the target machine ac
 #0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
 #1 {main}
  ------------------------------------------ {{ May 20, 2015 08:45 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 08:49 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 08:49 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/distController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/distController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 08:49 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 08:49 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/distController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/distController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 08:49 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 08:49 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 08:50 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 08:50 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 08:50 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/distController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/distController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 08:54 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 08:54 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/distController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/distController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 08:59 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 08:59 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/distController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/distController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 08:59 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 08:59 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/distController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/distController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 08:59 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 08:59 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/distController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/distController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 08:59 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 08:59 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/distController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/distController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 09:01 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 09:01 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/distController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/distController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 09:01 pm }}------------------------------------------
+
+<p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p><p>The file could not be found in : <pre>C:\xampp\htdocs\test\djay\quadcore/apps/controller/favicon.icoController.php</pre></p><p>Error at file path : <pre></pre></p>
+#0 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#1 {main}
+ ------------------------------------------ {{ May 20, 2015 09:01 pm }}------------------------------------------

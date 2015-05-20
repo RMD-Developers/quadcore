@@ -58,6 +58,10 @@ public function getAppJSLinks()
 		'/assets/plugin/jQuery/jQuery-2.1.4.min.js',
 		'/assets/plugin/jQuery/jquery-ui.min.js',
 		'/assets/plugin/fastclick/fastclick.min.js',
+		'/assets/js/app/fiber.js',
+		'/assets/js/app/const.js',
+		'/assets/js/app/base.js',
+		'/assets/js/app/run.js',
 		
 		'/assets/bootstrap/js/bootstrap.min.js',
 
