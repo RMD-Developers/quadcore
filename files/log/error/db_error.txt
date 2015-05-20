@@ -134,3 +134,11 @@ SQLSTATE[HY000] [2002] No connection could be made because the target machine ac
 #4 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
 #5 {main}
  ------------------------------------------ {{ May 19, 2015 12:36 pm }}------------------------------------------
+SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+#0 C:\xampp\htdocs\test\djay\quadcore\lib\class\Database.class.php(23): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\test\djay\quadcore\apps\facade\ProductFacade.class.php(10): Database::connect()
+#2 C:\xampp\htdocs\test\djay\quadcore\apps\controller\productController.php(27): ProductFacade::findProduct('FIND_ALL', Array)
+#3 C:\xampp\htdocs\test\djay\quadcore\lib\class\Router.class.php(61): productController->isProduct()
+#4 C:\xampp\htdocs\test\djay\quadcore\index.php(179): Router->loader()
+#5 {main}
+ ------------------------------------------ {{ May 20, 2015 12:01 pm }}------------------------------------------

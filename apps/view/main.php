@@ -51,8 +51,9 @@ desired effect
 |               | sidebar-mini                            |
 |---------------------------------------------------------|
 -->
+<?php ob_start('removeWhitespace'); ?>
   <?php require 'app/common/header.php'; ?>
-  <body class="skin-green sidebar-collapse sidebar-mini">
+  <body class="skin-green sidebar-mini">
     <div class="wrapper">
 
       <!-- Main Header -->
@@ -74,3 +75,4 @@ desired effect
     
       <!-- JS, end page tags -->
         <?php require 'app/common/footer.php'; ?>
+<?php ob_get_flush(); ?>

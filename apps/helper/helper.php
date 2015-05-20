@@ -16,3 +16,9 @@ function pre($data){
 	echo json_encode($data);
 	exit;
 }
+
+function removeWhitespace($content)
+{
+    $content = preg_replace('~>\s*\n\s*<~', '><', $content);
+    return preg_replace('!\s+!smi', ' ', $content);
+}
