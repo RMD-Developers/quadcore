@@ -31,15 +31,16 @@
             <li class="header">MENU</li>
             <!-- Optionally, you can add icons to the links -->
             <li class="active"><a href="#home" data-toggle="tab"><i class='fa fa-dashboard'></i> <span>Dashboard</span></a></li>
-            <li><a href="#"><i class='fa fa-link'></i> <span>Another Link</span></a></li>
+             <li><a href="#settings" data-toggle="tab"><i class='fa fa-user'></i> <span>Users</span></a></li>
+             <li><a href="#settings" data-toggle="tab"><i class='fa fa-video-camera'></i> <span>Products</span></a></li>
+             <li><a href="#settings" data-toggle="tab"><i class='fa fa-gears'></i> <span>Category</span></a></li>
             <li class="treeview">
-              <a href="#"><i class='fa fa-link'></i> <span>Multilevel</span> <i class="fa fa-angle-left pull-right"></i></a>
+              <a href="#"><i class='fa fa-cog'></i> <span>Settings</span> <i class="fa fa-angle-left pull-right"></i></a>
               <ul class="treeview-menu">
-                <li><a href="#">Link in level 2</a></li>
-                <li><a href="#">Link in level 2</a></li>
+                 <li><a href="#settings" data-toggle="tab"><i class='fa fa-video-camera'></i> <span>General</span></a></li>
               </ul>
             </li>
-            <li><a href="#settings" data-toggle="tab"><i class='fa fa-cog'></i> <span>Settings</span></a></li>
+           
           </ul><!-- /.sidebar-menu -->
         </section>
         <!-- /.sidebar -->
